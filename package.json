@@ -12,4 +12,6 @@
   },
   "author": "Stephen Maina",
   "license": "ISC",
+    "dependencies": { 
+  }
 }
